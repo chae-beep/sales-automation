@@ -1,0 +1,7 @@
+sales.db
+run.log
+inbox/*
+archive/*
+reports/*
+!*/.gitkeep
+__pycache__/
